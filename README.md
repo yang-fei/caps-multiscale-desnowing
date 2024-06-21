@@ -1,5 +1,5 @@
-# Multi-scale capsule generative adversarial network for snow removal
-### Fei Yang, Jialu Zhang and Qian Zhang
+# <center>Multi-scale capsule generative adversarial network for snow removal</center>
+###  <center>Fei Yang, Jialu Zhang and Qian Zhang </center>
 
 ## dataset
 RealSnow: https://pan.baidu.com/s/1Nv9svrkmym1OVggbbgZ_PQ?pwd=bbhm [bbhm] 
