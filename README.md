@@ -5,6 +5,7 @@
 RealSnow: https://pan.baidu.com/s/1Nv9svrkmym1OVggbbgZ_PQ?pwd=bbhm [bbhm] 
 
 ## BibTex
+```
 @article{yang2021multi,  
   title={Multi-scale capsule generative adversarial network for snow removal},  
   author={Yang, Fei and Zhang, Jialu and Zhang, Qian},  
@@ -15,3 +16,4 @@ RealSnow: https://pan.baidu.com/s/1Nv9svrkmym1OVggbbgZ_PQ?pwd=bbhm [bbhm]
   year={2021},  
   publisher={Wiley Online Library}  
 }
+```
