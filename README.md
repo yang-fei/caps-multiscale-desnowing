@@ -1,4 +1,4 @@
-# <center>Multi-scale capsule generative adversarial network for snow removal</center>
+# <div align=center>Multi-scale capsule generative adversarial network for snow removal</div>
 ###  <center>Fei Yang, Jialu Zhang and Qian Zhang </center>
 
 ## dataset
